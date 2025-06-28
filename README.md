@@ -2,12 +2,12 @@
 Backend 개발자입니다.
 > Spring Boot, Python, React
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Variable-Jin&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Variable-Jin"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Variable-Jin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Variable-Jin"
+  width="600"
+  height="300"
+/>
 </a>
   
 
